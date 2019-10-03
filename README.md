@@ -1,5 +1,5 @@
 # Tutoriel-Git
-Lier son projet sur vs code avec son repositorie en ssh
+# Lier son projet sur vs code avec son repositorie en ssh
 
 PROCEDURE DE CONNEXION SSH GITHUB / Projet en local
 Création d'un repositorie (on dit aussi dépôt)
